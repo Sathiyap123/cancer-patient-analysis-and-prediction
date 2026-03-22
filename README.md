@@ -15,7 +15,7 @@ This project aims to develop a machine learning-based system that can predict
 the likelihood of cancer in patients using historical medical data.
 
 3. Objectives
-4. 
+   
 To build a predictive model that can classify whether a patient has cancer or not.
 To analyze patient data and identify key factors influencing cancer diagnosis.
 To improve early detection and support medical decision-making.
