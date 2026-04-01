@@ -15,7 +15,7 @@ The dataset is stored and managed within the repository for easy access
 
 ## Data Preprocessing
 
-Imported required libraries such as Pandas, NumPy, Matplotlib, and Seaborn
+Imported required libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 Loaded the dataset into the environment
 Checked the structure of the dataset 
 Identified input features and target variable
