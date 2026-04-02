@@ -15,13 +15,21 @@ The dataset is stored and managed within the repository for easy access
 
 **DATASET FEATURES**
 Age – Age of the patient
+
 Gender – Male/Female
+
 Tumor Size – Size of the tumor detected
+
 Blood Test Results – Various medical indicators
+
 Genetic Factors – Family history or genetic risk
+
 Smoking History – Smoking habits of the patient
+
 Alcohol Consumption – Frequency of alcohol intake
+
 Symptoms – Observed symptoms related to cancer
+
 Target Variable – Indicates whether the patient has cancer (Yes/No or 1/0)
 
 **DATA PRE-PROCESSING**
