@@ -11,9 +11,9 @@ The dataset used in this project contains patient-related information such as ag
 The dataset is in CSV format
 It includes multiple features influencing cancer risk
 Each row represents a patient record
-The dataset is stored and managed within the repository for easy access
 
 **DATASET FEATURES**
+
 Age – Age of the patient
 
 Gender – Male/Female
@@ -34,9 +34,7 @@ Target Variable – Indicates whether the patient has cancer (Yes/No or 1/0)
 
 **DATA PRE-PROCESSING**
 
-Data preprocessing is essential to prepare the dataset for machine learning:
 Encoding:
-
 *  Converted categorical values into numerical form using Label Encoding / One-Hot Encoding.
 Feature Scaling:
 Applied normalization or standardization to bring all values to a similar scale
@@ -48,8 +46,6 @@ Handling Imbalance (if any):
 Used techniques like oversampling or undersampling.
 
 **DATA CLEANING**
-Removed duplicate records
-Handled missing values using:
 
 *   Mean/median for numerical data
 *   Mode for categorical data
