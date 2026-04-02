@@ -36,13 +36,17 @@ Target Variable – Indicates whether the patient has cancer (Yes/No or 1/0)
 
 Encoding:
 *  Converted categorical values into numerical form using Label Encoding / One-Hot Encoding.
+  
 Feature Scaling:
 Applied normalization or standardization to bring all values to a similar scale
+
 Splitting Dataset:
 Divided data into training set and testing set.
+
 Feature Selection:
 Selected important features that influence prediction.
-Handling Imbalance (if any):
+
+Handling Imbalance:
 Used techniques like oversampling or undersampling.
 
 **DATA CLEANING**
@@ -75,8 +79,10 @@ Confusion Matrix
 
 Deep Learning (Neural Networks)
 Use larger and real-time datasets for better prediction
+
 Develop a web application for real-time patient prediction
 Integrate with hospital management systems
+
 Add visual dashboards (Power BI / Tableau) for better insights
 Enable mobile app support for accessibility
 
