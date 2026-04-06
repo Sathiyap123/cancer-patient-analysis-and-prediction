@@ -55,7 +55,23 @@ Used techniques like oversampling or undersampling.
 *   Mode for categorical data
 *   Mode for categorical data
 *   Corrected inconsistent data formats
-*   Removed or treated outliers
+*   Removed or treated outliers.
+  
+## Insights from Visualization
+
+Most patients are in one age group, so risk is higher there.
+
+Habits like smoking and obesity affect cancer a lot
+
+Patients with more risk factors are more likely to get cancer.
+
+Some features are strongly related to cancer.
+
+There are more cancer cases than non-cancer cases (data imbalance).
+
+Early detection is low; many cases are found late.
+
+Combining multiple factors increases cancer risk.
 
 ## Tools & Technologies Used
 
