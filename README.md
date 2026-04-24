@@ -73,8 +73,11 @@ Open the project directly:
 ▶️ Run Locally
 
 git clone https://github.com/Sathiyap123/cancer-patient-analysis-and-prediction.git
+
 cd cancer-patient-analysis-and-prediction
+
 pip install -r requirements.txt
+
 python cancer_prediction.py
 
 📈 Results & Evaluation
@@ -102,10 +105,10 @@ Distribution Plots
 
 📁 Project Structure
 
-├── data/              # Dataset files
-├── notebooks/         # Google Colab / Jupyter Notebook
-├── models/            # Saved model (optional)
-├── src/               # Source code (if modularized)
+├── data/              
+├── notebooks/         
+├── models/            
+├── src/               
 ├── cancer_prediction.py
 └── README.md
 
