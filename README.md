@@ -24,13 +24,9 @@ Source: Breast Cancer Dataset
 Features Include:
 
 Radius
-
 Texture
-
 Perimeter
-
 Area
-
 Smoothness
 
 Size: ~500+ records with multiple numerical features
@@ -53,14 +49,19 @@ Google Colab
 Jupyter Notebook
 
 ⚙️ Project Workflow
+
 Data Collection & Loading
 Data Preprocessing
+
 Handling missing values
 Feature scaling
+
 Exploratory Data Analysis (EDA)
 Model Building
+
 K-Nearest Neighbors (KNN Classifier)
 Model Evaluation
+
 Prediction & Results Visualization
 
 🚀 Getting Started
@@ -69,30 +70,38 @@ Prediction & Results Visualization
 Open the project directly:
 👉 https://colab.research.google.com/drive/1acUZrfQnyTaIAv5Ul8tvk5W2ay2OrO8t?usp=sharing
 
-▶️ Run Locally (Optional)
+▶️ Run Locally
+
 git clone https://github.com/Sathiyap123/cancer-patient-analysis-and-prediction.git
 cd cancer-patient-analysis-and-prediction
 pip install -r requirements.txt
 python cancer_prediction.py
 
 📈 Results & Evaluation
+
 Algorithm Used:
 K-Nearest Neighbors (KNN)
+
 Performance Metrics:
+
 Accuracy
 Precision
 Recall
 F1-Score
 
 Result:
+
 Achieved high accuracy (~98–99%)
 Model effectively distinguishes between benign and malignant cases
+
 Visualizations:
+
 Confusion Matrix
 Feature Correlation Heatmap
 Distribution Plots
 
 📁 Project Structure
+
 ├── data/              # Dataset files
 ├── notebooks/         # Google Colab / Jupyter Notebook
 ├── models/            # Saved model (optional)
@@ -113,6 +122,17 @@ This project is licensed under the MIT License.
 
 🙌 Acknowledgements
 Open-source dataset providers
-
 Scikit-learn documentation
 Machine Learning community
+
+🔮 Future Work
+
+Apply advanced models like Random Forest and SVM
+Improve accuracy with hyperparameter tuning
+Use larger real-world datasets
+Deploy as a web application
+
+✅ Conclusion
+
+This project uses machine learning to predict cancer effectively.
+The KNN model achieved high accuracy, showing its usefulness for early detection and healthcare support.
