@@ -12,29 +12,43 @@ Approach: Data preprocessing, exploratory data analysis (EDA), feature selection
 
 🎯 Target
 Type: Binary Classification
+
 Classes:
 Benign (Non-cancerous)
+
 Malignant (Cancerous)
 
 📊 Dataset
 Source: Breast Cancer Dataset
+
 Features Include:
+
 Radius
+
 Texture
+
 Perimeter
+
 Area
+
 Smoothness
+
 Size: ~500+ records with multiple numerical features
 
 🛠️ Tech Stack
+
 Programming Language: Python
+
 Libraries:
+
 Pandas
 NumPy
 Scikit-learn
 Matplotlib
 Seaborn
+
 Tools:
+
 Google Colab
 Jupyter Notebook
 
