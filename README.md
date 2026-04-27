@@ -4,11 +4,19 @@ A Machine Learning project that analyzes patient medical data to accurately pred
 
 📌 Overview
 
-Early detection of cancer significantly improves treatment outcomes, but manual diagnosis can be time-consuming and prone to errors. This project leverages machine learning techniques to automate cancer prediction using diagnostic features.
+Early detection of cancer significantly improves treatment outcomes, but manual diagnosis can be time-consuming and prone to errors.
+This project leverages machine learning techniques to automate cancer prediction using diagnostic features.
 
-Problem Statement: Build a predictive model to classify tumors based on medical attributes.
-Objective: Develop a reliable classification system for early cancer detection.
-Approach: Data preprocessing, exploratory data analysis (EDA), feature selection, and model building using supervised learning algorithms.
+Problem Statement:
+
+Build a predictive model to classify tumors based on medical attributes.
+
+Objective:
+
+Develop a reliable classification system for early cancer detection.
+
+Approach: Data preprocessing, exploratory data analysis (EDA),
+feature selection, and model building using supervised learning algorithms.
 
 🎯 Target
 Type: Binary Classification
